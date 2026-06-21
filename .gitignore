@@ -1,0 +1,4 @@
+# Local data file used by validate.py.
+# Not committed: a synthetic demo CSV was generated locally for testing, and
+# committing it would shadow the real btc_15m_data_v63.csv on pull.
+btc_15m_data_v63.csv
